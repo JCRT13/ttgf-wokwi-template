@@ -8,13 +8,10 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+The project uses logic gates to implement simple adders. 
 
 ## How to test
-
-Explain how to use your project
+The goal is to be able to expand the adder.
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+nothing
